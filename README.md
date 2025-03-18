@@ -2,7 +2,8 @@
 In this repository i have given the solution of all the CSES problems with proper explanation
 
 
-## SNIPPET I USE AS BOILER PLATE
+## SNIPPET I USE AS BOILERPLATE
+```json
 {
     "Boilerplate C++": {
         "prefix": "boilerplate",
@@ -21,3 +22,4 @@ In this repository i have given the solution of all the CSES problems with prope
         "description": "Boilerplate C++ code with int main() function and fast I/O."
     }
 }
+```
